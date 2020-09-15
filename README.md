@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe with in the command line interface
+Tic-Tac-Toe within the command line interface
