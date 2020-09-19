@@ -45,6 +45,7 @@ def main(board, o, x):
                     if i > 2:
                         if check_for_win(board):
                             print('Congratulations player 1! You have won the game.')
+                            time.sleep(3)
                             sys.exit()
                     break
                 else:
@@ -61,6 +62,7 @@ def main(board, o, x):
                     if i > 4:
                         if check_for_win(board):
                             print('Congratulations player 2! You have won the game.')
+                            time.sleep(3)
                             sys.exit()
                     break
                 else:
